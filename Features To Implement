@@ -1,0 +1,41 @@
+TODO
+-----------
+
+Main
+- Probably start from scratch after exams
+- PLAN OUT ROADMAP OF ALL FEATURES TO BE IMPLEMENTED, if you build without planning this will drive you nuts and you wont ever finish it
+- Replace google listener with Sphinx
+- Change how requests are processed internally (analyse of words?)
+- Look into imporving performance by improving internal code
+- LOOK AT SEARCH ENGINE THING FROM 2NS YEARS!!! (Can give titles weightings to make it easier for playing music) 
+
+
+PC Music Player
+- Feature to list music
+- Implement case when more than one song has been found
+- Finish play music folder
+- Pause and Un-pause functionality
+- Search song metadata as opposed to filename?
+- Volume up and down (1. Use system volume not vlc, 2. Use 0 - 10)
+
+External Music Player
+- Feature to play youtube videos (vlc)
+- Feature to play youtube playlists
+- If unable to find music in music folder, search youtubes 
+
+Messagining
+- Connect to FB messenger to recieve notifications
+- To text through voice message to text
+- Call??
+- WhatsApp messaging??
+
+Other features
+- Feature to choose microphone (and speaker)
+- Look into more IoTs (Wifi bulb??)
+- Get weather
+- Get temperature
+- Read out top headlines and then articles (https://newsapi.org/)
+- Look into other APIs that could be connected
+- Generate music?
+- Enable different voice modes when speaking (normal, uwu mode)
+- Bed time alarm which plays Wamus "awaken my masters" then the piller men theme
